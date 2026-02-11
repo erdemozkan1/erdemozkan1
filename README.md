@@ -32,3 +32,5 @@ Yapay zeka yolculuğumu sağlam temellere oturtmak için şu alanlarda derinleş
 - **Hedef:** Kendi yazılım ekosistemini inşa eden bir mühendis olmak.
 
 *"Kod yazmak sadece bir iş değil, bir ekosistem inşa etmektir."*
+## 🐍 GitHub Eating My Contributions
+![snake gif](https://github.com/erdemozkan1/erdemozkan1/blob/output/github-contribution-grid-snake.svg)
