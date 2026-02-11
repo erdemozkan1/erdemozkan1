@@ -3,6 +3,8 @@
 ### 👨‍💻 Bilgisayar Mühendisliği Öğrencisi & Yapay Zeka Meraklısı
 
 Yazılım dünyasında kendi ekosistemimi kurma vizyonuyla ilerleyen, yapay zeka teknolojilerine odaklanmış bir bilgisayar mühendisliği öğrencisiyim. Karmaşık problemleri algoritmalara dönüştürmeyi ve veriden anlam çıkarmayı seviyorum.
+[![trophies](https://github-profile-trophy.vercel.app/?username=erdemozkan1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Ziyaretçi](https://komarev.com/ghpvc/?username=erdemozkan1&color=red)
 
 ---
 
