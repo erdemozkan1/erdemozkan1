@@ -4,8 +4,6 @@
 
 Yazılım dünyasında kendi ekosistemimi kurma vizyonuyla ilerleyen, yapay zeka teknolojilerine odaklanmış bir bilgisayar mühendisi öğrencisiyim. Karmaşık problemleri algoritmalara dönüştürmeyi ve veriden anlam çıkarmayı seviyorum.
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=erdemozkan1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Ziyaretçi](https://komarev.com/ghpvc/?username=erdemozkan1&color=red)
 
 ---
 
@@ -27,8 +25,6 @@ Yapay zeka yolculuğumu sağlam temellere oturtmak için şu alanlarda derinleş
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### 📊 GitHub İstatistiklerim
-![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdemozkan1&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemozkan1&layout=compact&theme=radical)
 
 ---
 
